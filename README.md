@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gautamprajapat
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Librar management
+- 🌱 I’m currently Java Full Stack Development
+- 💞️ I’m looking to collaborate on Library management
 - 📚 system project
 - 📫 How to reach me by my GitHub account
 
