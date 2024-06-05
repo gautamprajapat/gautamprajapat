@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gautamprajapat
 - 👀 I’m interested in Programming
-- 🌱 I’m currently Java Full Stack Development
+- 🌱 I’m currently  learning Java Full Stack Development
 - 💞️ I’m looking to collaborate on Library management
 - 📚 system project
 - 📫 How to reach me by my GitHub account
